@@ -1,4 +1,4 @@
-package com.example.compose.study.navcontroller
+package com.example.compose.ComposeStudy.navcontroller
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

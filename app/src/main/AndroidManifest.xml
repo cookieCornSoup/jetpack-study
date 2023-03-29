@@ -27,7 +27,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".study.navcontroller.NavControllActivity"></activity>
+        <activity android:name=".ComposeStudy.navcontroller.NavControllActivity"></activity>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package com.example.compose.study.column
+package com.example.compose.ComposeStudy.column
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
