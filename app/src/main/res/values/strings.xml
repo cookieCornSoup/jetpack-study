@@ -2,4 +2,16 @@
     <string name="app_name">compose</string>
     <string name="title_activity_column">ColumnActivity</string>
     <string name="title_activity_box">BoxActivity</string>
+
+
+    <string name="column">column</string>
+    <string name="composable">composable</string>
+    <string name="box">box</string>
+    <string name="field">field</string>
+    <string name="list">list</string>
+    <string name="image">image</string>
+    <string name="navigation">navigation</string>
+    <string name="state">state</string>
+    <string name="viewmodel">viewmodel</string>
+
 </resources>
