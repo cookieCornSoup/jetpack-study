@@ -1,15 +1,24 @@
 # android jetpack 스터디
 
-<p align="center"><img src="https://developer.android.com/images/hero-assets/android-jetpack.svg" height="500px" width="600px"></p>
+<p align="center"><img src="https://developer.android.com/images/hero-assets/android-jetpack.svg" height="500px" width="700px"></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcookieCornSoup&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
 <br/>
 
 ## 스터디 소개
 
 안드로이드 jetpack 에서 나오는 라이브러리들을 공부하고 사용해보는 프로젝트 스터디입니다.
+
 <br/>
    
+## 참고 문서, 영상, 레포지토리
+
+* [오준석의 생존코딩](https://www.youtube.com/@survivalcoding) - compose 강의
+
+
 ## 스택
    
 ### 환경   
@@ -40,18 +49,29 @@
 
 ## 공부 목차
 
-| 날짜         | 내용                                | 참고 문서                               |
-|------------|-----------------------------------|-------------------------------------|
-| 2023-03-28 | jetpack compose navigation 기초 공부  | [유튜브](https://youtu.be/sHyQV3Jz_fA) |
-| 2023-03-29 | jetpack compose column, row 기초 공부 | [유튜브](https://youtu.be/xszyeIWFsGc) |
+| 날짜            | 내용                    | 참고 문서                                                                                      |
+|---------------|-----------------------|--------------------------------------------------------------------------------------------|
+| 2023-03-28~29 | jetpack compose 기초 공부 | [유튜브](https://www.youtube.com/watch?v=xszyeIWFsGc&list=PLxTmPHxRH3VV8lJq8WSlBAhmV52O2Lu7n) |
+
 <br/>
 
-## 아키텍쳐
+## 강의 문서 정리
 
-### 강의 문서
+### Jetpack Compose
 
 * [1강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/column/1%EA%B0%95.md)
 * [2강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/composable/2%EA%B0%95.md)
+* [3강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/box/3%EA%B0%95)
+* [4강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/list/4%EA%B0%95.md)
+* [5강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/image/5%EA%B0%95.md)
+* [6강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/field/6%EA%B0%95.md)
+* [7강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/navigation/7%EA%B0%95.md)
+* [8강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/viewmodel/8%EA%B0%95.md)
+* [9강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/state/9%EA%B0%95.md)
+
+---
+
+## 아키텍쳐
 
 ### 디렉토리 구조
 

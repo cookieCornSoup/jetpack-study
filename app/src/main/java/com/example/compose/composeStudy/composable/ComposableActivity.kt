@@ -1,4 +1,4 @@
-package com.example.compose.ComposeStudy.composable
+package com.example.compose.composeStudy.composable
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

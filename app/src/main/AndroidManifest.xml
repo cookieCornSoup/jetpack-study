@@ -12,6 +12,11 @@
         android:theme="@style/Theme.Compose"
         tools:targetApi="31">
         <activity
+            android:name=".BoxActivity"
+            android:exported="false"
+            android:label="@string/title_activity_box"
+            android:theme="@style/Theme.Compose" />
+        <activity
             android:name=".ColumnActivity"
             android:exported="false"
             android:label="@string/title_activity_column"
@@ -27,7 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ComposeStudy.navigation.NavControllActivity"></activity>
+        <activity android:name=".composeStudy.navigation.NavControllActivity" />
     </application>
 
 </manifest>
