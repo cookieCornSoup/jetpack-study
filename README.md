@@ -50,8 +50,8 @@
 
 ### 강의 문서
 
-* [1강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/study/column/1%EA%B0%95.md)
-* [2강]()
+* [1강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/column/1%EA%B0%95.md)
+* [2강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/composable/2%EA%B0%95.md)
 
 ### 디렉토리 구조
 
