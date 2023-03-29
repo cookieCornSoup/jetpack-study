@@ -19,8 +19,12 @@
 * [오준석의 생존코딩](https://www.youtube.com/@survivalcoding) - compose 강의
 
 
+<br/>
+
 ## 스택
-   
+
+<br/>
+
 ### 환경   
 
 ![Android_studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white")
