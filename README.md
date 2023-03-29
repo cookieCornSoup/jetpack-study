@@ -1,6 +1,6 @@
 # android jetpack 스터디
 
-<p align="center"><img src="https://developer.android.com/images/hero-assets/android-jetpack.svg" height="500px" width="700px"></p>
+<p align="center"><img src="https://developer.android.com/images/hero-assets/android-jetpack.svg" height="400px" width="600px"></p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcookieCornSoup&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -59,17 +59,17 @@
 
 ### Jetpack Compose
 
-* [1강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/column/1%EA%B0%95.md)
-* [2강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/composable/2%EA%B0%95.md)
-* [3강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/box/3%EA%B0%95)
-* [4강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/list/4%EA%B0%95.md)
-* [5강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/image/5%EA%B0%95.md)
-* [6강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/field/6%EA%B0%95.md)
-* [7강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/navigation/7%EA%B0%95.md)
-* [8강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/viewmodel/8%EA%B0%95.md)
-* [9강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/state/9%EA%B0%95.md)
+* [1강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/composeStudy/column/1강.md)
+* [2강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/composable/2강.md)
+* [3강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/composeStudy/box/3강.md)
+* [4강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/list/4강.md)
+* [5강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/image/5강.md)
+* [6강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/field/6강.md)
+* [7강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/navigation/강.md)
+* [8강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/viewmodel/8강.md)
+* [9강](https://github.com/cookieCornSoup/jetpack-study/blob/main/app/src/main/java/com/example/compose/ComposeStudy/state/9강.md)
 
----
+<br/>
 
 ## 아키텍쳐
 
