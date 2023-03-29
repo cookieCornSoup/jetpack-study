@@ -63,15 +63,17 @@
 
 ### Jetpack Compose
 
-* [1강](app/src/main/java/com/example/compose/composeStudy/column/1강.md)
-* [2강](app/src/main/java/com/example/compose/composeStudy/composable/2강.md)
-* [3강](app/src/main/java/com/example/compose/composeStudy/box/3강.md)
-* [4강](app/src/main/java/com/example/compose/composeStudy/list/4강.md)
-* [5강](app/src/main/java/com/example/compose/composeStudy/image/5강.md)
-* [6강](app/src/main/java/com/example/compose/composeStudy/field/6강.md)
-* [7강](app/src/main/java/com/example/compose/composeStudy/navigation/7강.md)
-* [8강](app/src/main/java/com/example/compose/composeStudy/viewmodel/8강.md)
-* [9강](app/src/main/java/com/example/compose/composeStudy/state/9강.md)
+| 기능                          | 링크                                                                        |
+|-----------------------------|---------------------------------------------------------------------------|
+| Column, Row, Text           | [1강](app/src/main/java/com/example/compose/composeStudy/column/1강.md)     |
+| Composable, Preview         | [2강](app/src/main/java/com/example/compose/composeStudy/composable/2강.md) |
+| Box                         | [3강](app/src/main/java/com/example/compose/composeStudy/box/3강.md)        |
+| List, LazyColumn            | [4강](app/src/main/java/com/example/compose/composeStudy/list/4강.md)       |
+| image, Card, State          | [5강](app/src/main/java/com/example/compose/composeStudy/image/5강.md)      |
+| Scaffold, TextField, button | [6강](app/src/main/java/com/example/compose/composeStudy/field/6강.md)      |
+| Navigation                  | [7강](app/src/main/java/com/example/compose/composeStudy/navigation/7강.md) |
+| ViewModel                   | [8강](app/src/main/java/com/example/compose/composeStudy/viewmodel/8강.md)  |
+| State advanced              | [9강](app/src/main/java/com/example/compose/composeStudy/state/9강.md)      |
 
 <br/>
 
