@@ -31,12 +31,22 @@ class ImageActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ComposeTheme {
+                var isFavorite by rememberSaveable {
+                    mutableStateOf(false)
+                }
 
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    ImageCard()
+                    ImageCard(
+                        modifier = Modifier
+                            .fillMaxWidth(0.5f)
+                            .padding(16.dp),
+                        isFavorite = isFavorite
+                    ) { favorite ->
+                        isFavorite = favorite
+                    }
                 }
             }
         }
@@ -45,15 +55,14 @@ class ImageActivity : ComponentActivity() {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun ImageCard() {
-    var isFavorite by rememberSaveable {
-        mutableStateOf(false)
-    }
+fun ImageCard(
+    modifier: Modifier = Modifier,
+    isFavorite: Boolean,
+    onTabFavorite: (Boolean) -> Unit,
+) {
 
     Card(
-        modifier = Modifier
-            .fillMaxWidth(0.5f)
-            .padding(16.dp),
+        modifier = modifier,
         shape = RoundedCornerShape(8.dp),
         elevation = CardDefaults.cardElevation(
             defaultElevation = 5.dp
@@ -74,7 +83,7 @@ fun ImageCard() {
 
                 ) {
                 IconButton(onClick = {
-                    isFavorite = !isFavorite
+                    onTabFavorite(!isFavorite)
                 }) {
                     Icon(
                         imageVector = if (isFavorite) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
